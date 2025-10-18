@@ -47,3 +47,7 @@ hex_display hx (
     assign current_fsm_state = fsm_state_internal;
     
     
+    
+    
+
+endmodule
